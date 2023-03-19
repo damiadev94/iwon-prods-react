@@ -13,7 +13,7 @@ function App() {
   }, []);
 
   return (
-    <MainLayout>
+    <MainLayout bgColor="bg-transparent">
       <div className="flex flex-col">
         <div className="">
           <video

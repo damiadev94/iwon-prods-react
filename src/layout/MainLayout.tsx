@@ -5,7 +5,7 @@ import NavBar from "../components/Navbar";
 
 export default function MainLayout(props:any) {
   return (
-    <div className={`bg-darkGray proxima`}>
+    <div className={`proxima ${props.bgColor? props.bgColor : "bg-darkGray"}`}>
       <NavBar />
       <Menu isActive={false} />
       <main className="mx-auto xl:w-auto">

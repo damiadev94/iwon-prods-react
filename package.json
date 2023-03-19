@@ -3,12 +3,14 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "tailwind": "npx tailwind -i ./src/index.css -o ./dist/output.css --watch"
+    "tailwind": "npx tailwind -i ./src/index.css -o ./src/output.css --watch"
   },
+  "homepage": "https://iwonaudiovisual.com/",
   "dependencies": {
     "esbuild": "^0.17.12",
     "node": "^18.14.0",

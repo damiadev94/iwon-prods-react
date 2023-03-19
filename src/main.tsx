@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDom from "react-dom/client";
-import "../dist/output.css"
+import "./output.css"
 import App from "./App";
 import Producciones from "./pages/producciones/Producciones";
 import Precios from "./pages/precios/Precios";
