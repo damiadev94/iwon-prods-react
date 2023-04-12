@@ -17,7 +17,7 @@ function App() {
       <div className="flex flex-col">
         <div className="">
           <video
-            className="fixed right-0 bottom-0 z-[-10] min-w-full scale-150 min-h-full md:flex"
+            className="fixed right-0 bottom-0 z-[-10] min-w-full min-h-full scale-[4]  lg:scale-100 lg:flex"
             src={video}
             autoPlay
             muted

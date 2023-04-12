@@ -25,8 +25,8 @@ export default function Menu({ isActive }: any) {
         <a className="proxima text-2xl text-lightGreen" href="/contacto">
           Contacto
         </a>
-        <div className="absolute bottom-[-40%] md:top-[25%] h-[5px] w-[200px] rounded-md bg-lightGreen shadow-[0_11px_29px_#5FFC7B] xl:hidden"></div>
-        <div className="absolute top-[-40%] md:top-[25%] h-[5px] w-[200px] rounded-md bg-lightGreen shadow-[0_11px_29px_#5FFC7B] xl:hidden"></div>
+        <div className="absolute bottom-[-40%] h-[5px] w-[200px] rounded-md bg-lightGreen shadow-[0_11px_29px_#5FFC7B]"></div>
+        <div className="absolute top-[-40%] h-[5px] w-[200px] rounded-md bg-lightGreen shadow-[0_11px_29px_#5FFC7B]"></div>
       </div>
     </div>
   );
