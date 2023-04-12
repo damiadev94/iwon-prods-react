@@ -42,7 +42,7 @@ export default function Precios() {
                       <div className="pt-2">
                         <BsCheckCircleFill className="fill-lightGreen transition-colors group-hover:fill-darkGray" />
                       </div>
-                      Jornada de 4 horas
+                      Jornada De 1 hora
                     </div>
                     <div className="flex gap-8">
                       <div className="pt-2">
@@ -54,13 +54,13 @@ export default function Precios() {
                       <div className="pt-2">
                         <BsCheckCircleFill className="fill-lightGreen transition-colors group-hover:fill-darkGray" />
                       </div>
-                      Incluye Trailer De Lanzamiento
+                      Entrega En 7 Días
                     </div>
                     <div className="flex gap-8">
                       <div className="pt-2">
                         <BsCheckCircleFill className="fill-lightGreen transition-colors group-hover:fill-darkGray" />
                       </div>
-                      Entrega En El Día
+                      Incluye Trailer De Lanzamiento
                     </div>
                     <div className="flex gap-8">
                       <div className="pt-2">
@@ -73,7 +73,7 @@ export default function Precios() {
                 <div className="mb-4 mt-10">
                   <a
                     href={`${linkWp}`}
-                    className={`proxima-bold group group relative flex w-max items-center gap-[20px] rounded-[40px] border-2 border-lightGreen bg-transparent px-[30px] py-[15px] text-lg text-lighterGray transition-colors duration-[.2s] hover:shadow-[0_0_20px_#5FFC7B] group-hover:bg-darkGray md:text-xl`}
+                    className={`proxima-bold group group relative flex w-max items-center gap-[20px] rounded-[40px] border-2 border-lightGreen bg-darkGray px-[30px] py-[15px] text-lg text-lighterGray transition-colors duration-[.2s] md:text-xl`}
                     target="_blank"
                   >
                     <div>
@@ -112,7 +112,7 @@ export default function Precios() {
                       <div className="pt-2">
                         <BsCheckCircleFill className="fill-lightGreen transition-colors group-hover:fill-darkGray" />
                       </div>
-                      Completo
+                      Jornada De 4 Horas
                     </div>
                     <div className="flex gap-8 transition-colors group-hover:text-darkGray">
                       <div className="pt-2">
@@ -124,7 +124,7 @@ export default function Precios() {
                       <div className="pt-2">
                         <BsCheckCircleFill className="fill-lightGreen transition-colors group-hover:fill-darkGray" />
                       </div>
-                      Incluye Iluminación Básica
+                      Entrega En 2 Semanas
                     </div>
                     <div className="flex gap-8 transition-colors group-hover:text-darkGray">
                       <div className="pt-2">
@@ -136,14 +136,14 @@ export default function Precios() {
                       <div className="pt-2">
                         <BsCheckCircleFill className="fill-lightGreen transition-colors group-hover:fill-darkGray" />
                       </div>
-                      Entrega en 1 semana
+                      Incluye Iluminación Básica
                     </div>
                   </div>
                 </div>
                 <div className="mb-4 mt-10">
                   <a
                     href={`${linkWp}`}
-                    className={`proxima-bold group group relative flex w-max items-center gap-[20px] rounded-[40px] border-2 border-lightGreen bg-transparent px-[30px] py-[15px] text-lg text-lighterGray duration-[.2s] hover:shadow-[0_0_20px_#5FFC7B] group-hover:bg-darkGray md:text-xl`}
+                    className={`proxima-bold group group relative flex w-max items-center gap-[20px] rounded-[40px] border-2 border-lightGreen bg-darkGray px-[30px] py-[15px] text-lg text-lighterGray transition-colors duration-[.2s] md:text-xl`}
                     target="_blank"
                   >
                     <div>
@@ -183,13 +183,19 @@ export default function Precios() {
                       <div className="pt-2">
                         <BsCheckCircleFill className="fill-lightGreen transition-colors group-hover:fill-darkGray" />
                       </div>
-                      Completo
+                      Jornada De 8 Horas
                     </div>
                     <div className="flex gap-8 transition-colors group-hover:text-darkGray">
                       <div className="pt-2">
                         <BsCheckCircleFill className="fill-lightGreen transition-colors group-hover:fill-darkGray" />
                       </div>
                       3 Locaciones
+                    </div>
+                    <div className="flex gap-8 transition-colors group-hover:text-darkGray">
+                      <div className="pt-2">
+                        <BsCheckCircleFill className="fill-lightGreen transition-colors group-hover:fill-darkGray" />
+                      </div>
+                      Entrega en 1 semana
                     </div>
                     <div className="flex gap-8 transition-colors group-hover:text-darkGray">
                       <div className="pt-2">
@@ -227,18 +233,12 @@ export default function Precios() {
                       </div>
                       Video Vertical Para Historia
                     </div>
-                    <div className="flex gap-8 transition-colors group-hover:text-darkGray">
-                      <div className="pt-2">
-                        <BsCheckCircleFill className="fill-lightGreen transition-colors group-hover:fill-darkGray" />
-                      </div>
-                      Entrega en 1 semana
-                    </div>
                   </div>
                 </div>
                 <div className="mb-4 mt-10">
                   <a
                     href={`${linkWp}}`}
-                    className={`proxima-bold group group relative flex w-max items-center gap-[20px] rounded-[40px] border-2 border-lightGreen bg-transparent px-[30px] py-[15px] text-lg text-lighterGray duration-[.2s] hover:shadow-[0_0_20px_#5FFC7B] group-hover:bg-darkGray md:text-xl`}
+                    className={`proxima-bold group group relative flex w-max items-center gap-[20px] rounded-[40px] border-2 border-lightGreen bg-darkGray px-[30px] py-[15px] text-lg text-lighterGray transition-colors duration-[.2s] md:text-xl`}
                     target="_blank"
                   >
                     <div>
