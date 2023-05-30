@@ -7,5 +7,5 @@ export function hideControls(video:any) {
 }
 
 export function handleClick(video:any) {
-  console.log(video)
+  
 }

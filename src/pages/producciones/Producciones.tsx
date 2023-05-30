@@ -2,19 +2,18 @@
 import { useEffect, useState } from "react";
 import Video from "../../components/Video";
 import MainLayout from "../../layout/MainLayout";
+import VideoList from "../../components/videoList";
 
 export default function Producciones() {
   const [activeVideo, setActiveVideo] = useState("");
 
-  useEffect(() => {
-    const handleVideo = (e: any) => {
-      console.log(e);
-    };
+  const handleVideo = (e: any) => {
+    
+  };
 
-    document.addEventListener("click", (e: any) => {
-      handleVideo(e);
-    });
-  }, []);
+  document.addEventListener("click", (e: any) => {
+    handleVideo(e);
+  });
 
   return (
     <MainLayout>
@@ -23,36 +22,7 @@ export default function Producciones() {
           <h1 className="proxima-black mb-10 text-center text-4xl text-lighterGray xl:text-6xl">
             Nuestros Trabajos
           </h1>
-          <div className="mb-10 grid grid-cols-1 gap-10">
-            <div className="col-span-1 flex justify-center">
-              <Video
-                id="1"
-                src="/videos/antes-27.mp4"
-                poster="/images/poster-27.jpeg"
-              />
-            </div>
-            <div className="col-span-1 flex justify-center">
-              <Video
-                id="2"
-                src="/videos/hero-video.mp4"
-                poster="/images/poster-400.jpeg"
-              />
-            </div>
-            <div className="col-span-1 flex justify-center">
-              <Video
-                id="3"
-                src="/videos/ensimota.mp4"
-                poster="/images/poster-ensimota.jpeg"
-              />
-            </div>
-            <div className="col-span-1 flex justify-center">
-              <Video
-                id="4"
-                src="/videos/mi-puta.mp4"
-                poster="images/poster-puta.jpg"
-              />
-            </div>
-          </div>
+          <VideoList/>
           <div className="mx-auto h-[5px] w-[400px] translate-y-[40px] rounded-[50%] bg-lightGreen blur-md"></div>
         </div>
       </div>

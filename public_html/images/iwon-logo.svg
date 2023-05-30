@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="171"
+   height="100.524"
+   viewBox="0 0 45.243759 26.596992"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4596">
+      <stop
+         style="stop-color:#f7f7f7;stop-opacity:1;"
+         offset="0"
+         id="stop4594" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient4596"
+       id="linearGradient1611"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-23.716751,-16.576906)"
+       x1="53.79784"
+       y1="46.983868"
+       x2="81.026665"
+       y2="46.983868" />
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="display:none;fill:#0f0f0f;fill-opacity:1;stroke-width:0.117513"
+       id="rect388"
+       width="45.243752"
+       height="26.596975"
+       x="0"
+       y="0" />
+    <g
+       id="g7090"
+       transform="translate(-20.845586,-8.6786632)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans';letter-spacing:0.264583px;fill:#f7f7f7;fill-opacity:1;stroke-width:0.264583"
+         x="23.876596"
+         y="22.942602"
+         id="text113"><tspan
+           id="tspan111"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'SF UI Display';-inkscape-font-specification:'SF UI Display Bold';fill:#f7f7f7;fill-opacity:1;stroke-width:0.264583"
+           x="23.876596"
+           y="22.942602">iWon</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:8.46667px;letter-spacing:1.32292px;fill:url(#linearGradient1611);fill-opacity:1;stroke-width:0.264583"
+         x="29.209024"
+         y="33.446495"
+         id="text2728"><tspan
+           id="tspan2726"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Gotham Thin';-inkscape-font-specification:'Gotham Thin, ';fill:url(#linearGradient1611);fill-opacity:0.560538;stroke-width:0.264583"
+           x="29.209024"
+           y="33.446495">Prods</tspan></text>
+      <rect
+         style="fill:#f7f7f7;fill-opacity:1;stroke-width:0.264583"
+         id="rect7667"
+         width="42.939457"
+         height="0.099999979"
+         x="22.225775"
+         y="25.105017" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:'SF UI Display';-inkscape-font-specification:'SF UI Display Bold';fill:#f7f7f7;stroke-width:0.264583"
+         x="-8.0484028"
+         y="29.169193"
+         id="text4592"><tspan
+           id="tspan4590"
+           style="stroke-width:0.264583"
+           x="-8.0484028"
+           y="29.169193" /></text>
+    </g>
+  </g>
+</svg>
