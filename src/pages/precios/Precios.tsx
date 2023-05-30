@@ -32,7 +32,7 @@ export default function Precios() {
                       <del>$29.900</del>
                     </span>
                     <span className="text-4xl text-lighterGray transition-colors group-hover:text-darkGray">
-                      $10.900
+                      $19.999
                     </span>
                   </div>
                 </div>
@@ -99,10 +99,10 @@ export default function Precios() {
                   </h1>
                   <div className="flex flex-col items-center gap-1">
                     <span className="text-xl text-lighterGray transition-colors group-hover:text-darkGray">
-                      <del>$79.900</del>
+                      <del>$79.999</del>
                     </span>
                     <span className="text-4xl text-lighterGray transition-colors group-hover:text-darkGray">
-                      $25.900
+                      $39.999
                     </span>
                   </div>
                 </div>
@@ -170,10 +170,10 @@ export default function Precios() {
                   </h1>
                   <div className="flex flex-col items-center gap-1">
                     <span className="text-xl text-lighterGray transition-colors group-hover:text-darkGray">
-                      <del>$110.000</del>
+                      <del>$119.999</del>
                     </span>
                     <span className="text-4xl text-lighterGray transition-colors group-hover:text-darkGray">
-                      $60.900
+                      $79.999
                     </span>
                   </div>
                 </div>
